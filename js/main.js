@@ -127,7 +127,7 @@ switch(myDay){
             desc: `Spice up your weekend with a Pumpkin Spice latte`
         };
     break;
-
+ 
     case 0:
         today = "Sunday";
         coffee = {
